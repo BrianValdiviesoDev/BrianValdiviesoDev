@@ -3,13 +3,72 @@
 # Brian Valdivieso
 Welcome to my portfolio! Here you will find the projects I have worked on and can make public.
 
+You can find more detailed information about all my projects [here](https://github.com/BrianValdiviesoDev/portfolio)
+
 ## My Tech Stack
-![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?showBorder=false&lineCount=4&width=800&hideTitle=true&line1=react%2CReact%2C06b88e%3Bangular%2CAngular%2C06b88e%3Bnext.js%2CNext%2C06b88e%3B&line2=node.js%2CNode%2C06b88e%3Bexpress%2CExpress%2C06b88e%3Bfastapi%2CFastApi%2C06b88e%3Bnestjs%2CNest%2C06b88e%3Bpostgresql%2CPostgreSQL%2C06b88e%3Bmongodb%2CMongoDB%2C06b88e%3Bdocker%2CDocker%2C06b88e%3B&line3=javascript%2CJavaScript%2C06b88e%3Btypescript%2CTypeScript%2C06b88e%3BPython%2CPython%2C06b88e%3Bhtml5%2CHTML%2C06b88e%3Bcss3%2CCSS%2C06b88e%3Bsql%2CSQL%2C06b88e%3BPHP%2CPHP%2C06b88e%3B&line4=Unity%2CUnity%2C06b88e%3Barduino%2CArduino%2C06b88e%3Braspberrypi%2CRaspberryPi%2C06b88e%3Blinux%2CLinux%2C06b88e%3B)
+### Frontend
+<p float="left">
+  <img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/react.svg" />
+  <img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/next-js.svg" />
+  <img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/angular.svg" />
+</p>
+
+### Backend
+<p float="left">
+  <img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/nodejs.svg" />
+  <img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/fastapi.svg" />
+  <img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/mysql.svg" />
+  <img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/postgresql.svg" />
+  <img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/mongodb.svg" />
+  <img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/redis.svg" />
+  
+</p>
+
+### DevOps
+<p float="left">
+  <img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/linux.svg" />
+  <img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/docker.svg" />
+  <img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/git.svg" />
+</p>
+
+### My languages
+<p float="left">
+  <img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/javascript.svg" />
+  <img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/typescript.svg" />
+  <img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/css.svg" />
+  <img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/html.svg" />
+  <img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/php.svg" />
+  <img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/python.svg" />
+  <img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/c--.svg" />
+</p>
+
+### Libraries and third party software
+<p float="left">
+  <img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/puppeteer.svg" />
+  <img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/materialui.svg" />
+  <img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/pandas.svg" />
+  <img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/selenium.svg" />
+</p>
+
+### Another fields of software engineering
+<p float="left">
+  <img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/unity.svg" />
+  <img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/arduino.svg" />
+</p>
+
+### Tools
+<p float="left">
+  <img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/vscode.svg" />
+  <img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/photoshop.svg" />
+  <img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/davinci.svg" />
+  <img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/figma.svg" />
+  <img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/obs.svg" />
+</p>
 
 ## 💻 I'm currently working on...
 🎙️ EARS Cloud (https://earscloud.io)
 
-🎓 Recording courses for my future academy
+🎓 Creating my Startup
 
 💼 My own portfolio
 
